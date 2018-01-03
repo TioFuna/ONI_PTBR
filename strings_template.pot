@@ -1,7 +1,13 @@
-msgid ""
+
+https://github.com/TioFuna/ONI_PTBR/blob/master/strings_template.potmsgid ""
 msgstr ""
 "Application: Oxygen Not Included"
 "POT Version: 2.0"
+
+#. STRINGS.BUILDING.DETAILS.USE_COUNTED
+msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNTED"
+msgid "Using: {0}"
+msgstr ""
 
 #. STRINGS.BUILDING.DETAILS.USE_COUNT
 msgctxt "STRINGS.BUILDING.DETAILS.USE_COUNT"
