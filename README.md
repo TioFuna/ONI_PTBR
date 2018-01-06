@@ -54,23 +54,20 @@ A última tradução pode ser encontrada aqui **>> [releases](https://github.com
    
    Arquivo atualizado de tradução - Português Brasil PT-BR
    
-   Atualizado 03/jan/2018 (Tubular)
    
 - **strings_template_2017_08_22.pot**
 
-   Última versão disponibilizada pelos desenvolvedores para traduzir.
-   
-   **>> [Discussão no Fórum da Klei](https://forums.kleientertainment.com/topic/74765-creatingusing-translation-files-updated-august-22nd-2017/?tab=comments#comment-871758) <<**
+   Última versão disponibilizada pelos desenvolvedores para traduzir. **>> [Discussão no Fórum da Klei](https://forums.kleientertainment.com/topic/74765-creatingusing-translation-files-updated-august-22nd-2017/?tab=comments#comment-871758) <<**
 
 ## Tradutores e Revisores
-   Tio Funa
+   - Tio Funa
    
 ## Colaborar com as Traduções
-As traduções estão sendo realizadas atráves do site **>> [Transifex](https://www.transifex.com/oxygen-not-include-translation/oxygen-not-included-translation-portuguese-brazil/dashboard/) <<**
+As traduções estão sendo realizadas atráves do site **>> [Transifex - Oxygen Not Included](https://www.transifex.com/oxygen-not-include-translation/oxygen-not-included-translation-portuguese-brazil/dashboard/) <<**
 
 Quer que sua tradução seja adicionada ou fazer parte de alguma equipe de tradutores ou revisores?!?!
 
 Entre em contato e peça para participar deste projeto.
 
 ---
-#### Criado/Revisado a partir do arquivo da Steam traduzido por Arthur Aguiar (Tradução PT-BR ONI 1.2.3)
+#### Tradução PT-BR Criado/Revisado a partir do arquivo da Steam traduzido por Arthur Aguiar (Tradução PT-BR ONI 1.2.3)
