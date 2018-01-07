@@ -55,9 +55,13 @@ A última tradução pode ser encontrada aqui **>> [releases](https://github.com
    Arquivo atualizado de tradução - Português Brasil PT-BR
    
    
-- **strings_template_2017_08_22.pot**
+- **strings_template.pot**
 
-   Última versão disponibilizada pelos desenvolvedores para traduzir. **>> [Discussão no Fórum da Klei](https://forums.kleientertainment.com/topic/74765-creatingusing-translation-files-updated-august-22nd-2017/?tab=comments#comment-871758) <<**
+   Última versão disponibilizada pelos desenvolvedores para traduzir.
+   
+   Pode ser encontrado na pasta `Mods` do jogo, como no endereço acima..
+   
+   Mais detalhes em **>> [Discussão no Fórum da Klei](https://forums.kleientertainment.com/topic/74765-creatingusing-translation-files-updated-august-22nd-2017/?tab=comments#comment-871758) <<**
 
 ## Tradutores e Revisores
    - Tio Funa
