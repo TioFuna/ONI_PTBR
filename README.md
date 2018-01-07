@@ -37,7 +37,7 @@
 A última tradução pode ser encontrada aqui **>> [releases](https://github.com/TioFuna/ONI_PTBR/releases) <<**
 
 ## Problemas Já Conhecidos
-- **Font Diferente da Original**
+- **Fonte Diferente da Original**
 
    Quando é aplicado alguma tradução, por padrão ela irá aparecer com a fonte `Roboto Condensed`, sendo diferente da original em Inglês (parecido com a Graystroke)
 
@@ -68,6 +68,3 @@ As traduções estão sendo realizadas atráves do site **>> [Transifex - Oxygen
 Quer que sua tradução seja adicionada ou fazer parte de alguma equipe de tradutores ou revisores?!?!
 
 Entre em contato e peça para participar deste projeto.
-
----
-#### Tradução PT-BR Criado/Revisado a partir do arquivo da Steam traduzido por Arthur Aguiar (Tradução PT-BR ONI 1.2.3)
