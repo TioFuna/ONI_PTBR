@@ -14,7 +14,7 @@
 
    Acesse o mod através da oficina da central da comunidade e assine essa tradução.
    
-   [TRADUÇÃO PORTUGUÊS BRASIL](https://github.com/TioFuna/DFLocalizationTool/wiki)
+   [TRADUÇÃO PORTUGUÊS BRASIL](http://steamcommunity.com/workshop/browse/?appid=457140&requiredtags[]=language)
    
    Na próxima vez que entrar no jogo, a tradução estará disponível em `Translations`
    
