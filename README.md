@@ -20,8 +20,6 @@
    
    Escolha a tradução `Português Brasil`
    
-   ![Tradução Português Brasil](https://github.com/TioFuna/ONI_PTBR/blob/Atualiza%C3%A7%C3%A3o-de-arquivos-e-readme/preinstalled_icon_pt_BR.png?raw=true "Tradução PT-BR")
-   
    O jogo precisará reiniciar, pra que tenha efeito a tradução no jogo.
    
    **obs:** o jogo não atualiza o arquivo de tradução automaticamente, então fique atento ao número da última versão na tela inicial.
